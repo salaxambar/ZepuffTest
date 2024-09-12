@@ -24,7 +24,7 @@
     bash <(curl -fsS https://as-repository.openvpn.net/as/install.sh)
     ```
 
-4. **Find your login and password to Admin UI. Exomple:**
+4. **Find your login and password to Admin UI.**
     ![1](https://github.com/user-attachments/assets/8fe52255-96bd-421e-bf56-c3640a36f5fc)
 
 5. **Open browser and login to Admin UI**
@@ -33,17 +33,11 @@
     ```
 
 6. **Choose your OpenVPN plan and get activation key**
-    ```sh
-    <Public IP address>:943/admin
-     ![Знімок екрана 2024-09-12 141628](https://github.com/user-attachments/assets/90444687-dd32-4e31-8f13-8ea9dfcda578)
-   ```
+![Знімок екрана 2024-09-12 141628](https://github.com/user-attachments/assets/90444687-dd32-4e31-8f13-8ea9dfcda578)
 
 7. **Create a user using Admin UI**
-    ```sh
-    ![Знімок екрана 2024-09-12 141932](https://github.com/user-attachments/assets/4c1d7838-30c8-42c4-9535-cf35ef7ad1ef)
-   ```
+![Знімок екрана 2024-09-12 141932](https://github.com/user-attachments/assets/4c1d7838-30c8-42c4-9535-cf35ef7ad1ef)
 
 8. **Login like a user and download OpenVPN for your platform**
-    ```sh
-    ![3](https://github.com/user-attachments/assets/576b28ab-0b0f-4abc-9b21-10fb72015a88)
-    ```
+![3](https://github.com/user-attachments/assets/576b28ab-0b0f-4abc-9b21-10fb72015a88)
+
