@@ -1,5 +1,5 @@
 # Deployment Guide
-1. **Use terraform configuration**
+1. **Clone this repository and use terraform configuration**
     ```sh
     terrafrom init
     terraform apply
