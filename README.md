@@ -25,7 +25,7 @@
     ```
 
 4. **Find your login and password to Admin UI. Exomple:**
-    (C:\projects terraform\ZepuffTest\1.png)
+    ![1](https://github.com/user-attachments/assets/8fe52255-96bd-421e-bf56-c3640a36f5fc)
 
 5. **Open browser and login to Admin UI**
     ```sh
