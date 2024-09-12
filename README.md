@@ -38,6 +38,6 @@
 7. **Create a user using Admin UI**
 ![Знімок екрана 2024-09-12 141932](https://github.com/user-attachments/assets/4c1d7838-30c8-42c4-9535-cf35ef7ad1ef)
 
-8. **Login like a user and download OpenVPN for your platform**
+8. **Login like a user and download OpenVPN for your platform and connect**
 ![3](https://github.com/user-attachments/assets/576b28ab-0b0f-4abc-9b21-10fb72015a88)
 
